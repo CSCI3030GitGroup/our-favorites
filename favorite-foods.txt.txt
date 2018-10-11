@@ -2,4 +2,3 @@ pizza
 lasagna
 soft pretzels
 Burgers
-salad
