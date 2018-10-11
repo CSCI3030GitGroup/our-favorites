@@ -1,5 +1,4 @@
-Burgers [grain] [meat] [veggies]
-lasagna [cheese] [meat] [grain]
-pizza [cheese] [meat] [grain]
-soft pretzels [grain] 
-
+*Burgers [grain] [meat] [veggies]
+*lasagna [cheese] [meat] [grain]
+*pizza [cheese] [meat] [grain]
+*soft pretzels [grain] 
